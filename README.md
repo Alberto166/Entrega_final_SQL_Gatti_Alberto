@@ -68,7 +68,8 @@ FROM pedidos;
 Abra su terminal de Git Bash y ejecute:
 ```bash
 git clone https://github.com
-cd Entrega_final_SQL
+cd Entrega_final_SQL_Gatti_Alberto
+
 ```
 
 ### Paso 2: Despliegue de la Estructura y Carga

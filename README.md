@@ -67,7 +67,8 @@ FROM pedidos;
 ### Paso 1: Clonar el Repositorio Localmente
 Abra su terminal de Git Bash y ejecute:
 ```bash
-git clone https://github.com
+git clone https://github.com/Alberto166/Entrega_final_SQL_Gatti_Alberto.git
+
 cd Entrega_final_SQL_Gatti_Alberto
 
 ```
